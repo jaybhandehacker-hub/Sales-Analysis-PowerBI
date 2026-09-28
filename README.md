@@ -1,5 +1,7 @@
 # Sales Data Analysis & Power BI Dashboard
 
+![Dashboard](powerbi/dashboard_screenshot.png)
+
 End-to-end sales analysis: raw data → cleaning in Python/Excel → summary analysis in Excel → interactive Power BI dashboard.
 
 > **Data note:** The dataset is **synthetic** (randomly generated, fixed seed) to demonstrate the workflow. It is not real company data.
